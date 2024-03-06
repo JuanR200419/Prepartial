@@ -8,7 +8,7 @@ d) Un ResultSet no puede ser utilizado para actualizar datos en una base de
 datos.
 2. ¿Cuál de las siguientes opciones describe mejor el propósito de 'git pull' en
 Git?
-Respuesta: B
+Respuesta: A
 a) Descargar los cambios desde el repositorio remoto y fusionarlos en la
 rama local.
 b) Subir los cambios locales al repositorio remoto.
